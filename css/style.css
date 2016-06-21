@@ -1,3 +1,8 @@
 body{
-	background-color: #d27400
+	background-color: #ff751a;
 } 
+
+ol{
+	font-style:italic;
+	font-family: Lucidatypewriter, monospace
+}
